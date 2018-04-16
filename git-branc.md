@@ -6,3 +6,7 @@ Nos muestra cuáles ramas no han sido fusionadas a la rama actual.
 
 ### git branch --merged
 Nos muestra a las ramas que han sido fusioandas a la rama actual.
+
+Puedo crear todas las rmas que quiera y/o necesite.
+
+Las ramas nuevas se crean apuntan al commit actual.
