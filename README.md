@@ -6,10 +6,10 @@ Sistema de Control de Versiones para el mantenimiento eficiente y confiable de a
 2. Área de preparación.
 3. Directorio GIT.
 
-### Flujo de trabajo básico en GIT
+## Flujo de trabajo básico en GIT
 1. Modificas una serie de archivos en tu directorio de trabajo.
 
-### Configurando GIT por primera vez
+## Configurando GIT por primera vez
 ```
 git config --global user.name "Jhon Doe".
 ```
