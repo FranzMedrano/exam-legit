@@ -15,4 +15,4 @@ git config --global user.name "Jhon Doe".
 ```
 
 ## Aportes desde otra cuenta
-Este texto fue aportado desde la cuenta desde mi cuenta
+Este texto fue aportado desde la cuenta desde mi cuenta franz medrano
