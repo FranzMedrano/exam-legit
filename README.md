@@ -12,3 +12,6 @@ git config --global user.name "Jhon Doe".
 ```
 ## Aportes desde otra cuenta
 Este texto fue aportado desde la cuenta desde mi cuenta franz medrano
+
+## Varios repositorios remotos
+Podemos configurar un mismo proyecto para sincronizar cammbios.
