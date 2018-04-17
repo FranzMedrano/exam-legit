@@ -1,7 +1,7 @@
-## Curso GIT desde cero
+# Curso GIT desde cero
 Sistema de Control de Versiones para el mantenimiento eficiente y confiable de archivos.
 
-### Zonas de GIT
+## Zonas de GIT
 1. Directorio de trabajo.
 2. Área de preparación.
 3. Directorio GIT.
@@ -14,4 +14,5 @@ Sistema de Control de Versiones para el mantenimiento eficiente y confiable de a
 git config --global user.name "Jhon Doe".
 ```
 
-Esta línea fue creada en la rama master.
+## Aportes desde otra cuenta
+Este texto fue aportado desde la cuenta desde mi cuenta franz medrano
