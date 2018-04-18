@@ -11,4 +11,4 @@ Sistema de Control de Versiones para el mantenimiento eficiente y confiable de a
 git config --global user.name "Jhon Doe".
 ```
 ## Aportes desde otra cuenta
-Este texto fue aportado desde la cuenta desde mi cuenta franz medrano
+Este texto fue aportado desde la cuenta desde mi cuenta franz medrano.
