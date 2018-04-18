@@ -20,5 +20,8 @@ Este texto fue aportado desde la cuenta desde mi cuenta franz medrano.
 Dejamos el passphrase vacío y damos enter.
 Cuando nos puda la ruta escribimos `Users/franz/.shh/id_rsa`.
 4. Iniciamos ssh-agent en background ejecutando el comando `eval ${ssh-agent -s}`.
-5. Agregamos la llave ssh generada a ssh-agent ejecutando el comando `ssh-add /Users/franz/.shh/id_rsa`
-6. Ahora podemos hacer pull y push sin cuentas de autorización.
+5. Agregamos la llave ssh generada a ssh-agent ejecutando el comando `ssh-add /Users/franz/.shh/id_rsa`.
+6. Usar el comando `cat /Users/franz/.shh/id_rsa`.
+Con este comando vemos el contenido del archivo.
+7. Ir a las configuraciones de nuestro perfil y agregar la llave de SHH, con la llave que generamos de la computadora.
+8. Ahora podemos hacer pull y push sin cuentas de autorización.
